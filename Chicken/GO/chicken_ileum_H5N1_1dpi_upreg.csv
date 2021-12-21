@@ -1,0 +1,5 @@
+query,significant,p_value,term_size,query_size,intersection_size,precision,recall,term_id,source,term_name,effective_domain_size,source_order
+query_1,TRUE,0.0498272389969604,1,5,1,0.2,1,GO:0140337,GO:MF,diacylglyceride transfer activity,24356,11836
+query_1,TRUE,0.0498272389969604,1,5,1,0.2,1,GO:0140338,GO:MF,sphingomyelin transfer activity,24356,11837
+query_1,TRUE,0.0498272389969604,1,5,1,0.2,1,GO:0140339,GO:MF,phosphatidylglycerol transfer activity,24356,11838
+query_1,TRUE,0.0498272389969604,1,5,1,0.2,1,GO:0140340,GO:MF,cerebroside transfer activity,24356,11839
