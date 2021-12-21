@@ -1,0 +1,5 @@
+significant,p_value,term_size,query_size,intersection_size,precision,recall,term_id,source,term_name,effective_domain_size,source_order,
+TRUE,"0,028311080390579",46,6,2,"0,333333333333333","0,043478260869565",GO:0055072,GO:BP,iron ion homeostasis,24356,16847,
+TRUE,"0,016683247848742",5,6,1,"0,166666666666667","0,2",KEGG:00400,KEGG,Phenylalanine, tyrosine and tryptophan biosynthesis,24356,51
+TRUE,"0,036680546975526",11,6,1,"0,166666666666667","0,090909090909091",KEGG:00360,KEGG,Phenylalanine metabolism,24356,44,
+TRUE,"0,049963607020179",2,6,1,"0,166666666666667","0,5",REAC:R-GGA-444411,REAC,Rhesus glycoproteins mediate ammonium transport.,24356,1184,
