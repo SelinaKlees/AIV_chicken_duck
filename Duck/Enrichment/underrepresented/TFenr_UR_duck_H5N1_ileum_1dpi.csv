@@ -1,0 +1,4 @@
+transcription_factor	no_search_sites	no_background_sites	sum_search_sites	sum_background_sites	no_gene_sites	wilcox_pval	wilcox_adjusted
+AHRARNT_02	101	124	177	297	183	3.83203606126822e-05	0.0105955797094066
+AHR_01	137	159	326	455	183	2.67890609314329e-05	0.0105955797094066
+FOXN4_01	181	181	2136	2577	183	7.34584006934991e-05	0.0135408318611683
