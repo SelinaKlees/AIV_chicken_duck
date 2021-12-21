@@ -14,7 +14,7 @@ R programming language (4.1.0) Packages: - DESeq2 (1.34.0) - gprofiler2 (0.2.1) 
     * DEG_orth/ contains the orthologous genes to the DEGs.
     <!--* GO/ contains the GO terms for the DEGs (divided into up-and downregulated)-->
     * Promoter/Info/ contains a more detailed gene list for the DEGs
-3. The files in GO/ contain the enriched GO terms for the DEGs (divided into up-and downregulated) obtained from [gprofiler](https://biit.cs.ut.ee/gprofiler/gost) using a custom background containing all genes from the respective sequencing data, "g:SCS" p-value correction, and a significance threshold of 0.05.
+3. The files in GO/ contain the enriched GO terms for the DEGs (divided into up-and downregulated) obtained from [g:Profiler](https://biit.cs.ut.ee/gprofiler/gost) using a custom background containing all genes from the respective sequencing data, "g:SCS" p-value correction, and a significance threshold of 0.05.
 4. For each file in Promoter/Info/, the promoter regions of the genes (-1000bp to +100bp) are obtained in fasta format from the [Ensembl](https://www.ensembl.org/index.html) BioMart and put into Promoter/Fasta/FG/. 
     * For chicken, the reference genome GRCg6a was used, for duck CAU_duck1.0.
 5. For the creation of the background set, the promoter regions of all genes that are not differentially
