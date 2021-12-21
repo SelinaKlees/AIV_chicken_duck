@@ -1,0 +1,5 @@
+query,significant,p_value,term_size,query_size,intersection_size,precision,recall,term_id,source,term_name,effective_domain_size,source_order
+query_1,TRUE,0.0156041525989428,7,20,2,0.1,0.285714285714286,GO:0050802,GO:BP,circadian sleep/wake cycle, sleep,24356,15397
+query_1,TRUE,0.0267236257018745,9,20,2,0.1,0.222222222222222,GO:0022410,GO:BP,circadian sleep/wake cycle process,24356,7620
+query_1,TRUE,0.0267236257018745,9,20,2,0.1,0.222222222222222,GO:0030431,GO:BP,sleep,24356,7871
+query_1,TRUE,0.033388076195691,10,20,2,0.1,0.2,GO:0042745,GO:BP,circadian sleep/wake cycle,24356,11974
