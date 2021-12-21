@@ -1,0 +1,5 @@
+significant,p_value,term_size,query_size,intersection_size,precision,recall,term_id,source,term_name,effective_domain_size,source_order
+TRUE,"0,007081848427773",158,63,5,"0,079365079365079","0,031645569620253",GO:0005840,GO:CC,ribosome,25952,487
+TRUE,"0,009013602184624",30,63,3,"0,047619047619048","0,1",GO:0022626,GO:CC,cytosolic ribosome,25952,1024
+TRUE,"0,005239239554966",131,63,5,"0,079365079365079","0,038167938931298",GO:0003735,GO:MF,structural constituent of ribosome,25952,457
+TRUE,"0,01792703258699",5,63,2,"0,031746031746032","0,4",GO:0003857,GO:MF,3-hydroxyacyl-CoA dehydrogenase activity,25952,553
